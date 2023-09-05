@@ -58,8 +58,6 @@
 
 .parrafo-nosotros {
   color: white;
-  justify-content: center;
-  display: flex;
   text-align: center;
   text-transform: capitalize;
   padding: 2rem;
@@ -470,6 +468,11 @@ header {
 
 header {
   background: linear-gradient(to right, black, grey);
+}
+
+.video-sucursales{
+  height: 50rem;
+  object-fit: cover;
 }
 
 .container-index {
